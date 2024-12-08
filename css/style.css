@@ -5,11 +5,17 @@ body {
     max-width: 960px;
     background-color: #eee;
     color: #222;
-    margin-left: 300px;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 td {
     border: 2px solid #555;
+}
+
+h1 {
+    color: #BC002D;
 }
 
 li {
